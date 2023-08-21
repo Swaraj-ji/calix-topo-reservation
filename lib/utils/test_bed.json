@@ -1,0 +1,39 @@
+{
+	"CVIL_Static_Test_Bed": {
+		"E9-2_1": {
+			"Testbed_name": "Avatar_VZ",
+			"locked": "False",
+			"current_user": "sandeep",
+			"past_user": "Sarvesh",
+			"Time_since_used": ""
+		},
+		"E9-2_2": {
+			"Testbed_name": "Avatar_CF",
+			"locked": "False",
+			"current_user": "sandeep",
+			"past_user": "Sarvesh",
+			"Time_since_used": ""
+		},
+		"E9-2_3": {
+			"Testbed_name": "Avatar_ROW",
+			"locked": "True",
+			"current_user": "sandeep",
+			"past_user": "Sarvesh",
+			"Time_since_used": ""
+		},
+		"ASM": {
+			"Testbed_name": "DarkKnight",
+			"locked": "True",
+			"current_user": "sandeep",
+			"past_user": "Sarvesh",
+			"Time_since_used": ""
+		},
+		"E3-2": {
+			"Testbed_name": "Hanuman",
+			"locked": "False",
+			"current_user": "sandeep",
+			"past_user": "Sarvesh",
+			"Time_since_used": ""
+		}
+	}
+}
